@@ -1,6 +1,6 @@
 # isBinary
 
- Determines whether a value is stored as binary data.
+Determines whether a value is stored as binary data.
 
 ```javascript
 isBinary(value)

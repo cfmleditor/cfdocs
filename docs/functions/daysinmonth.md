@@ -1,6 +1,6 @@
 # daysInMonth
 
- Determines the number of days in a month.
+Determines the number of days in a month.
 
 ```javascript
 daysInMonth(date)

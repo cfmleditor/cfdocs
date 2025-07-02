@@ -1,6 +1,6 @@
 # second
 
- Extracts the ordinal for the second from a date/time object.
+Extracts the ordinal for the second from a date/time object.
 
 ```javascript
 second(date)

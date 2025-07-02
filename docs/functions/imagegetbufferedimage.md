@@ -1,6 +1,6 @@
 # imageGetBufferedImage
 
- Returns the java.awt.BufferedImage object underlying the current ColdFusion image.
+Returns the java.awt.BufferedImage object underlying the current ColdFusion image.
 
 ```javascript
 imageGetBufferedImage(name)

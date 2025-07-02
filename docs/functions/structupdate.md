@@ -1,6 +1,6 @@
 # structUpdate
 
- Updates a key with a value.
+Updates a key with a value.
 
 ```javascript
 structUpdate(structure, key, value)

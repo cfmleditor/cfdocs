@@ -1,6 +1,6 @@
 # structClear
 
- Removes all data from a structure.
+Removes all data from a structure.
 
 ```javascript
 structClear(structure)

@@ -1,6 +1,6 @@
 # imageShearDrawingAxis
 
- Shears the drawing canvas.
+Shears the drawing canvas.
 
 ```javascript
 imageShearDrawingAxis(name, shrx, shry)

@@ -1,6 +1,6 @@
 # isPDFFile
 
- Verifies whether a PDF file is valid.
+Verifies whether a PDF file is valid.
 
 ```javascript
 isPDFFile(path)

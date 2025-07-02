@@ -1,6 +1,6 @@
 # spreadsheetSetFooter
 
- Adds a footer to the specified worksheet.
+Adds a footer to the specified worksheet.
 
 ```javascript
 spreadsheetSetFooter(spreadsheetObj, leftFooter, centerFooter, rightFooter)

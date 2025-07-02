@@ -1,6 +1,6 @@
 # imageDrawRoundRect
 
- Draws a rectangle with rounded corners.
+Draws a rectangle with rounded corners.
 
 ```javascript
 imageDrawRoundRect(name, x, y, width, height, arcwidth, archeight [, filled])

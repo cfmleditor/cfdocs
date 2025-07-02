@@ -1,6 +1,6 @@
 # imageGetWidth
 
- Retrieves the width of the specified ColdFusion image.
+Retrieves the width of the specified ColdFusion image.
 
 ```javascript
 imageGetWidth(name)

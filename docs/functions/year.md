@@ -1,6 +1,6 @@
 # year
 
- From a date/time object, gets the year value.
+From a date/time object, gets the year value.
 
 ```javascript
 year(date)

@@ -1,6 +1,6 @@
 # spreadsheetSetCellComment
 
- Specifies the comment for an Excel spreadsheet object cell.
+Specifies the comment for an Excel spreadsheet object cell.
 
 ```javascript
 spreadsheetSetCellComment(spreadsheetObj, comment, row, column)

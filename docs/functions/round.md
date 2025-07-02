@@ -1,6 +1,6 @@
 # round
 
- Rounds a number to the closest integer.
+Rounds a number to the closest integer.
 
 ```javascript
 round(number)

@@ -1,6 +1,6 @@
 # imageShear
 
- Shears an image either horizontally or vertically.
+Shears an image either horizontally or vertically.
 
 ```javascript
 imageShear(name, shear [, direction] [, interpolation])

@@ -1,6 +1,6 @@
 # imageSharpen
 
- Sharpens a ColdFusion image by using the unsharp mask filter.
+Sharpens a ColdFusion image by using the unsharp mask filter.
 
 ```javascript
 imageSharpen(name [, gain])

@@ -1,6 +1,6 @@
 # listToArray
 
- Copies the elements of a list to an array.
+Copies the elements of a list to an array.
 
 ```javascript
 listToArray(list [, delimiters] [, includeEmptyFields] [, multiCharacterDelimiter])

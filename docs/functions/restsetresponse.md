@@ -1,6 +1,6 @@
 # restSetResponse
 
- Sets the custom responses.
+Sets the custom responses.
 
 ```javascript
 restSetResponse(response);
