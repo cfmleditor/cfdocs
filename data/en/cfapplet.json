@@ -59,7 +59,17 @@
 			"required": false,
 			"default": "",
 			"type": "string",
-			"values": ["top", "left", "bottom", "baseline", "texttop", "absbottom", "middle", "absmiddle", "right"]
+			"values": [
+				"top",
+				"left",
+				"bottom",
+				"baseline",
+				"texttop",
+				"absbottom",
+				"middle",
+				"absmiddle",
+				"right"
+			]
 		},
 		{
 			"name": "notsupported",
