@@ -1,6 +1,6 @@
 # sgn
 
- Determines the sign of a number.
+Determines the sign of a number.
 
 ```javascript
 sgn(number)

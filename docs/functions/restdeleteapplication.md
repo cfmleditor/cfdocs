@@ -1,6 +1,6 @@
 # restDeleteApplication
 
- Unregisters the directory path if it is already registered.
+Unregisters the directory path if it is already registered.
 
 ```javascript
 restDeleteApplication('dirPath');

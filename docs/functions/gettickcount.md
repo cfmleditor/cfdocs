@@ -1,6 +1,6 @@
 # getTickCount
 
- Returns the current value of an internal millisecond timer.
+Returns the current value of an internal millisecond timer.
 
 ```javascript
 getTickCount()

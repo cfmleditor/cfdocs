@@ -1,6 +1,6 @@
 # imageGetIPTCMetadata
 
- Retrieves the International Press Telecommunications Council (IPTC )headers in a ColdFusion image as a structure.
+Retrieves the International Press Telecommunications Council (IPTC )headers in a ColdFusion image as a structure.
 
 ```javascript
 imageGetIPTCMetadata(name)

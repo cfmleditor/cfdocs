@@ -1,6 +1,6 @@
 # queryAppend
 
- Adds a query to the end of the current query.
+Adds a query to the end of the current query.
 
 ```javascript
 queryAppend(query1, query2)

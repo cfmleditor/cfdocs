@@ -1,6 +1,6 @@
 # imageSetDrawingTransparency
 
- Specifies the degree of transparency of drawing functions.
+Specifies the degree of transparency of drawing functions.
 
 ```javascript
 imageSetDrawingTransparency(name, percent)

@@ -1,6 +1,6 @@
 # spreadsheetAddInfo
 
- Adds information to an Excel spreadsheet object.
+Adds information to an Excel spreadsheet object.
 
 ```javascript
 spreadsheetAddInfo(spreadsheetObj, info)

@@ -1,6 +1,6 @@
 # imageBlur
 
- Smooths (blurs) the ColdFusion image.
+Smooths (blurs) the ColdFusion image.
 
 ```javascript
 imageBlur(name [, blurradius])

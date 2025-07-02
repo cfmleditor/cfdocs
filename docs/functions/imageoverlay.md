@@ -1,6 +1,6 @@
 # imageOverlay
 
- Reads two source ColdFusion images and overlays the second source image on the first source image.
+Reads two source ColdFusion images and overlays the second source image on the first source image.
 
 ```javascript
 imageOverlay(source1, source2 [, rule, alpha])

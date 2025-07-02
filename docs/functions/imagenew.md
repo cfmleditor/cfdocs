@@ -1,6 +1,6 @@
 # imageNew
 
- Creates a ColdFusion image.
+Creates a ColdFusion image.
 
 ```javascript
 imageNew([source] [, width] [, height] [, imagetype] [, canvascolor])

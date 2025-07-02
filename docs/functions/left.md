@@ -1,6 +1,6 @@
 # left
 
- Returns the leftmost count characters in a string.
+Returns the leftmost count characters in a string.
 
 ```javascript
 left(String, count)

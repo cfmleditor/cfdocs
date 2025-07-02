@@ -1,6 +1,6 @@
 # imageGetIPTCtag
 
- Retrieves the value of the IPTC tag for a ColdFusion image.
+Retrieves the value of the IPTC tag for a ColdFusion image.
 
 ```javascript
 imageGetIPTCtag(name, tagName)

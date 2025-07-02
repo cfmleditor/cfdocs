@@ -1,6 +1,6 @@
 # spreadsheetSetRowHeight
 
- Sets the height of a row in a worksheet.
+Sets the height of a row in a worksheet.
 
 ```javascript
 spreadsheetSetRowHeight(spreadsheetObj, rowNumber, height)

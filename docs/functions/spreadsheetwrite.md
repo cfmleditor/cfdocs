@@ -1,6 +1,6 @@
 # spreadsheetwrite
 
- Writes Spreadsheet object into file
+Writes Spreadsheet object into file
 
 ```javascript
 spreadsheetwrite(spreadsheetObj, fileName [, password] [, overwrite])

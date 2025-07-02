@@ -1,6 +1,6 @@
 # spreadsheetReadBinary
 
- Reads spreadsheet file into a binary object
+Reads spreadsheet file into a binary object
 
 ```javascript
 spreadsheetReadBinary(spreadsheetObj)

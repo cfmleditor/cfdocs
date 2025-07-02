@@ -1,6 +1,6 @@
 # month
 
- Extracts the month value from a date/time object.
+Extracts the month value from a date/time object.
 
 ```javascript
 month(date)

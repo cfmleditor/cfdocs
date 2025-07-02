@@ -1,6 +1,6 @@
 # sessionGetMetadata
 
- Returns meta data related to the current session.
+Returns meta data related to the current session.
 
 ```javascript
 sessionGetMetadata();

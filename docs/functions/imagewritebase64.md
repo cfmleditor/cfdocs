@@ -1,6 +1,6 @@
 # imageWriteBase64
 
- Writes Base64 images to the specified filename and destination.
+Writes Base64 images to the specified filename and destination.
 
 ```javascript
 imageWriteBase64(name, destination, format [, inHTMLFormat] [, overwrite])

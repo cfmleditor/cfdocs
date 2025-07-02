@@ -1,6 +1,6 @@
 # listPrepend
 
- Inserts an element at the beginning of a list.
+Inserts an element at the beginning of a list.
 
 ```javascript
 listPrepend(someList, value [, delimiters, includeEmptyFields])

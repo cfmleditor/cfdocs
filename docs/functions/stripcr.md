@@ -1,6 +1,6 @@
 # stripCR
 
- Deletes return characters from a string.
+Deletes return characters from a string.
 
 ```javascript
 stripCR(String)

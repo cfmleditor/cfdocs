@@ -1,6 +1,6 @@
 # imageSetDrawingColor
 
- Sets the current drawing color for ColdFusion images. All subsequent graphics operations use the specified color.
+Sets the current drawing color for ColdFusion images. All subsequent graphics operations use the specified color.
 
 ```javascript
 imageSetDrawingColor(name, color)

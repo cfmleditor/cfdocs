@@ -1,6 +1,6 @@
 # min
 
- Determines the lesser of two numbers.
+Determines the lesser of two numbers.
 
 ```javascript
 min(number1, number2)

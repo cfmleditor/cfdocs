@@ -1,6 +1,6 @@
 # dayOfYear
 
- Determines the day of the year, in a date.
+Determines the day of the year, in a date.
 
 ```javascript
 dayOfYear(date)

@@ -1,6 +1,6 @@
 # imageDrawOval
 
- Draws an oval.
+Draws an oval.
 
 ```javascript
 imageDrawOval(name, x, y, width, height [, filled])

@@ -1,6 +1,6 @@
 # structFindKey
 
- Searches recursively through a substructure of nested arrays,
+Searches recursively through a substructure of nested arrays,
  structures, and other elements, for structures whose keys
  match the search key in the value parameter.
 

@@ -1,6 +1,6 @@
 # listFirst
 
- Gets the first element of a list.
+Gets the first element of a list.
 
 ```javascript
 listFirst(list [, delimiters])

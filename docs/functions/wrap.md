@@ -1,6 +1,6 @@
 # wrap
 
- Wraps text so that each line has a specified maximum number
+Wraps text so that each line has a specified maximum number
  of characters.
 
 ```javascript

@@ -1,6 +1,6 @@
 # imageTranslate
 
- Copies an image to a new location on the plane.
+Copies an image to a new location on the plane.
 
 ```javascript
 imageTranslate(name, xTrans, yTrans [, interpolation])

@@ -1,6 +1,6 @@
 # getCpuUsage
 
- Gets the CPU usage with default or custom snapshot interval.
+Gets the CPU usage with default or custom snapshot interval.
 
 ```javascript
 getCpuUsage([interval]);

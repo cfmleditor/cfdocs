@@ -1,6 +1,6 @@
 # queryConvertForGrid
 
- Converts query data to a structure that contains a paged subset of the query.
+Converts query data to a structure that contains a paged subset of the query.
 
 ```javascript
 queryConvertForGrid(query, page, pageSize)

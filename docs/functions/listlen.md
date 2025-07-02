@@ -1,6 +1,6 @@
 # listLen
 
- Determines the number of elements in a list.
+Determines the number of elements in a list.
 
 ```javascript
 listLen(list [, delimiters, [includeEmptyValues]])

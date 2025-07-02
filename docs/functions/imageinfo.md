@@ -1,6 +1,6 @@
 # imageInfo
 
- Returns a structure that contains information about the image, such as height, width, color model, size, and filename.
+Returns a structure that contains information about the image, such as height, width, color model, size, and filename.
 
 ```javascript
 imageInfo(name)

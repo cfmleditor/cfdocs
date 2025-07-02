@@ -1,6 +1,6 @@
 # lJustify
 
- Left justifies characters in a string of a specified length.
+Left justifies characters in a string of a specified length.
 
 ```javascript
 lJustify(String, length)

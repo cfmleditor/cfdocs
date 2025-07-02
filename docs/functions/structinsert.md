@@ -1,6 +1,6 @@
 # structInsert
 
- Inserts a key-value pair into a structure.
+Inserts a key-value pair into a structure.
 
 ```javascript
 structInsert(structure, key, value [, allowoverwrite])

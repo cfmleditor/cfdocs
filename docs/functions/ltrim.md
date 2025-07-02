@@ -1,6 +1,6 @@
 # lTrim
 
- Removes leading spaces from a string.
+Removes leading spaces from a string.
 
 ```javascript
 lTrim(String)

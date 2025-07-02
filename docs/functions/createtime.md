@@ -1,6 +1,6 @@
 # createTime
 
- Creates a time variable.
+Creates a time variable.
 
 ```javascript
 createTime(hour, minute, second)

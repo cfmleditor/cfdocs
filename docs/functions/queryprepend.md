@@ -1,6 +1,6 @@
 # queryPrepend
 
- Adds a query to the beginning of the current query.
+Adds a query to the beginning of the current query.
 
 ```javascript
 queryPrepend(query1, query2)

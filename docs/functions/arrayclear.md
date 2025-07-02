@@ -1,6 +1,6 @@
 # arrayClear
 
- Removes all elements from an array.
+Removes all elements from an array.
 
 ```javascript
 arrayClear(array)

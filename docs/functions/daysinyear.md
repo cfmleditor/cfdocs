@@ -1,6 +1,6 @@
 # daysInYear
 
- Determines the number of days in a year.
+Determines the number of days in a year.
 
 ```javascript
 daysInYear(date)

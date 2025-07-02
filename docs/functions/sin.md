@@ -1,6 +1,6 @@
 # sin
 
- Calculates the sine of an angle that is entered in radians.
+Calculates the sine of an angle that is entered in radians.
 
 ```javascript
 sin(number)

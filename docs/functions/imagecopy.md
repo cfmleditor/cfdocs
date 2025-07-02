@@ -1,6 +1,6 @@
 # imageCopy
 
- Copies a rectangular area of an image.
+Copies a rectangular area of an image.
 
 ```javascript
 imageCopy(name, x, y, width, height [, dx] [, dy])

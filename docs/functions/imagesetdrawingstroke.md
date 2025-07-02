@@ -1,6 +1,6 @@
 # imageSetDrawingStroke
 
- Sets the drawing stroke for points and lines in subsequent ColdFusion images.
+Sets the drawing stroke for points and lines in subsequent ColdFusion images.
 
 ```javascript
 imageSetDrawingStroke(name [, attributecollection])

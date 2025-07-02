@@ -1,6 +1,6 @@
 # imageAddBorder
 
- Adds a rectangular border around the outside edge of a ColdFusion image.
+Adds a rectangular border around the outside edge of a ColdFusion image.
 
 ```javascript
 imageAddBorder(name, thickness [, color] [, bordertype])

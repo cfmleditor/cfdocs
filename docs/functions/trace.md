@@ -1,6 +1,6 @@
 # trace
 
- Displays and logs debugging data about the state of an
+Displays and logs debugging data about the state of an
  application at the time the cftrace tag executes. Tracks
  runtime logic flow, variable values, and execution time.
  Displays output at the end of the request or in the debugging

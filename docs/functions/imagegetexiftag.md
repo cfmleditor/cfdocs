@@ -1,6 +1,6 @@
 # imageGetEXIFTag
 
- Retrieves the specified EXIF tag in an image.
+Retrieves the specified EXIF tag in an image.
 
 ```javascript
 imageGetEXIFTag(name, tagName)

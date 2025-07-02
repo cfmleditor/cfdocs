@@ -1,6 +1,6 @@
 # imageMakeColorTransparent
 
- Creates an image and sets a transparent color.
+Creates an image and sets a transparent color.
 
 ```javascript
 imageMakeColorTransparent(img, color__);

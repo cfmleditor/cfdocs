@@ -1,6 +1,6 @@
 # sqr
 
- Calculates the square root of a number.
+Calculates the square root of a number.
 
 ```javascript
 sqr(number)

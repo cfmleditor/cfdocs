@@ -1,6 +1,6 @@
 # structKeyList
 
- Extracts keys from a CFML structure.
+Extracts keys from a CFML structure.
 
 ```javascript
 structKeyList(structure [, delimiter])
