@@ -74,7 +74,7 @@ Encryption is the technology that allows us to take plain text messages and make
 
 ### Authentication
 
-Authentication is the process by which you validate that a particular user is allowed to login to your application. This should not be confused with _access control*, which determines what parts of your application a user has access to. Authentication is merely the process of ensuring a user can login.
+Authentication is the process by which you validate that a particular user is allowed to login to your application. This should not be confused with _access control_, which determines what parts of your application a user has access to. Authentication is merely the process of ensuring a user can login.
 
 [Security Authentication](/security-authentication) to learn how authentication can be used to provide logins for your users to your application.
 

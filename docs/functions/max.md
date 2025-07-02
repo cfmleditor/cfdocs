@@ -1,6 +1,6 @@
 # max
 
- Determines the greater of two numbers.
+Determines the greater of two numbers.
 
 ```javascript
 max(number1, number2)

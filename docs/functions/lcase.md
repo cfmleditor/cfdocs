@@ -1,6 +1,6 @@
 # lCase
 
- Converts the alphabetic characters in a string to lowercase.
+Converts the alphabetic characters in a string to lowercase.
 
 ```javascript
 lCase(String)

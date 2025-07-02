@@ -1,6 +1,6 @@
 # right
 
- Gets a specified number of characters from a string,
+Gets a specified number of characters from a string,
  beginning at the right.
 
 ```javascript

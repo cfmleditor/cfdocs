@@ -1,6 +1,6 @@
 # getTotalSpace
 
- Returns the total disk space or in-memory space available for an application.
+Returns the total disk space or in-memory space available for an application.
 
 ```javascript
 getTotalSpace(path);

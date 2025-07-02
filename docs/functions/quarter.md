@@ -1,6 +1,6 @@
 # quarter
 
- Calculates the quarter of the year in which a date falls.
+Calculates the quarter of the year in which a date falls.
 
 ```javascript
 quarter(date)

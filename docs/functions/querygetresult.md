@@ -1,6 +1,6 @@
 # queryGetResult
 
- Returns the metadata of a query.
+Returns the metadata of a query.
 
 ```javascript
 queryGetResult(query)

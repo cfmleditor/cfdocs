@@ -1,6 +1,6 @@
 # imageWrite
 
- Writes a ColdFusion image to the specified filename or destination.
+Writes a ColdFusion image to the specified filename or destination.
 
 ```javascript
 imageWrite(name [, destination] [, quality] [, overwrite])

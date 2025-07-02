@@ -1,6 +1,6 @@
 # spreadsheetSetActiveSheet
 
- Sets active sheet in given spreadsheet
+Sets active sheet in given spreadsheet
 
 ```javascript
 spreadsheetSetActiveSheet(spreadsheetObj [, name])

@@ -1,6 +1,6 @@
 # decodeFromURL
 
- Decodes an encoded HTML URL string.
+Decodes an encoded HTML URL string.
 
 ```javascript
 decodeFromURL(string);

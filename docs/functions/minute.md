@@ -1,6 +1,6 @@
 # minute
 
- Extracts the minute value from a date/time object.
+Extracts the minute value from a date/time object.
 
 ```javascript
 minute(date)

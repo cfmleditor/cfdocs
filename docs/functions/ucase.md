@@ -1,6 +1,6 @@
 # uCase
 
- Converts the alphabetic characters in a string to uppercase.
+Converts the alphabetic characters in a string to uppercase.
 
 ```javascript
 uCase(String)

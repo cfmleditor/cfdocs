@@ -1,6 +1,6 @@
 # imageGrayScale
 
- Converts a ColdFusion image to grayscale.
+Converts a ColdFusion image to grayscale.
 
 ```javascript
 imageGrayScale(name)

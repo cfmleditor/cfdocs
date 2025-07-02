@@ -11,7 +11,7 @@ Part of the new CF11 mobile development features. This tag is similar to cfproce
 ### Script Syntax ACF11+, Lucee, Railo 4.2+
 
 ```javascript
- cfclientsettings(enableDeviceAPI = "true|false", detectDevice = "true|false", deviceTimeout = Number); 
+cfclientsettings(enableDeviceAPI = "true|false", detectDevice = "true|false", deviceTimeout = Number); 
 ```
 
 ## Attribute Reference

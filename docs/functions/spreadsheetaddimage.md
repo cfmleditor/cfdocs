@@ -1,6 +1,6 @@
 # spreadsheetAddimage
 
- Adds an image to an Excel spreadsheet object.
+Adds an image to an Excel spreadsheet object.
 
 ```javascript
 spreadsheetAddimage(spreadsheetObj, imagefilepath, anchor)

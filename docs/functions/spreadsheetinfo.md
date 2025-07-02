@@ -1,6 +1,6 @@
 # spreadsheetInfo
 
- Returns spreadsheet property
+Returns spreadsheet property
 
 ```javascript
 spreadsheetInfo(spreadsheetObj)

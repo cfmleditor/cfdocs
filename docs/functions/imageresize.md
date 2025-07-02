@@ -1,6 +1,6 @@
 # imageResize
 
- Resizes a ColdFusion image.
+Resizes a ColdFusion image.
 
 ```javascript
 imageResize(name, width, height, interpolation, blurfactor)

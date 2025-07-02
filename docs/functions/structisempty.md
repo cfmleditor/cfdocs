@@ -1,6 +1,6 @@
 # structIsEmpty
 
- Determines whether a structure contains data.
+Determines whether a structure contains data.
 
 ```javascript
 structIsEmpty(structure)

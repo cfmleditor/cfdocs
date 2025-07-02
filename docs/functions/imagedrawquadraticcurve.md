@@ -1,6 +1,6 @@
 # imageDrawQuadraticCurve
 
- Draws a curved line. The curve is controlled by a single point.
+Draws a curved line. The curve is controlled by a single point.
 
 ```javascript
 imageDrawQuadraticCurve(name, ctrlx1, ctrly1, x1, y1, x2, y2)

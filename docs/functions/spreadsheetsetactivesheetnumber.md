@@ -1,6 +1,6 @@
 # spreadsheetSetActiveSheetNumber
 
- Sets number of active sheet in given spreadsheet
+Sets number of active sheet in given spreadsheet
 
 ```javascript
 spreadsheetSetActiveSheetNumber(spreadsheetObj [, number])

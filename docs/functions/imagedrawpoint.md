@@ -1,6 +1,6 @@
 # imageDrawPoint
 
- Draws a point at the specified (x,y) coordinate.
+Draws a point at the specified (x,y) coordinate.
 
 ```javascript
 imageDrawPoint(name, x, y)

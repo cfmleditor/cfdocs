@@ -1,6 +1,6 @@
 # rJustify
 
- Right justifies characters of a string.
+Right justifies characters of a string.
 
 ```javascript
 rJustify(String, length)
