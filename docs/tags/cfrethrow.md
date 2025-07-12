@@ -9,3 +9,9 @@ Rethrows the currently active exception. Preserves the
 ```html
 <cfrethrow>
 ```
+
+### Script Syntax
+
+```javascript
+rethrow;
+```

@@ -24,7 +24,7 @@ isSimpleValue(42)
 
 ### Expected Result: YES
 
-## A string is a simple value as well
+## A string is a simple value
 
 ```javascript
 isSimpleValue("Hello world")
@@ -32,12 +32,20 @@ isSimpleValue("Hello world")
 
 ### Expected Result: YES
 
-## A structure is a complex value
+## Null is a complex value
 
-So it can't a be simple value
+For engines that support null, such as Lucee and Railo, `null` is considered a complex value.
 
 ```javascript
-isSimpleValue(structNew())
+isSimpleValue( javaCast('null', '') )
+```
+
+### Expected Result: NO
+
+## A structure is a complex value
+
+```javascript
+isSimpleValue({})
 ```
 
 ### Expected Result: NO
@@ -45,7 +53,17 @@ isSimpleValue(structNew())
 ## An array is a complex value
 
 ```javascript
-isSimpleValue(arrayNew(1))
+isSimpleValue([])
 ```
 
 ### Expected Result: NO
+
+## A list is a simple value
+
+As lists are just strings with delimiters, they are simple values.
+
+```javascript
+isSimpleValue(arrayToList([]))
+```
+
+### Expected Result: YES
