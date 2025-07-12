@@ -22,7 +22,7 @@ cfheader();
 | value | string | No |  | HTTP header value |
 | charset | string | No |  | The character encoding in which to encode the header value.<br /><br /> For more information on character encodings, see:<br /> www.w3.org/International/O-charset.html. |
 | statuscode | numeric | No |  | HTTP status code<br /> Required if name not specified |
-| statustext | string | No |  | Explains status code |
+| statustext | string | No |  | Explains status code<br />Removed in CF2025 as it's also removed in Tomcat. |
 
 ## Set a HTTP Response Header
 

@@ -10,12 +10,20 @@ nullValue()
 returns any
 ```
 
+## Example using nullvalue
+
+```javascript
+isNull(nullValue())
+```
+
+### Expected Result: YES
+
 ## ColdFusion polyfill
 
 Using java data type null instead
 
 ```javascript
-writeOutput(isNull(nullValue()));
+isNull(javaCast('null', ''))
 ```
 
 ### Expected Result: YES
