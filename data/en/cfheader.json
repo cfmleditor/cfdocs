@@ -51,7 +51,7 @@
 		},
 		{
 			"name": "statustext",
-			"description": "Explains status code",
+			"description": "Explains status code\nRemoved in CF2025 as it's also removed in Tomcat.",
 			"required": false,
 			"default": "",
 			"type": "string",
