@@ -84,6 +84,7 @@
 			"minimum_version": "8",
 			"notes": "",
 			"deprecated": "2016",
+			"removed": "2025",
 			"docs": "https://helpx.adobe.com/coldfusion/cfml-reference/coldfusion-tags/tags-m-o/cfmenuitem.html"
 		}
 	},

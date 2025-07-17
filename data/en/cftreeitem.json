@@ -116,6 +116,7 @@
 		"coldfusion": {
 			"minimum_version": "3",
 			"deprecated": "11",
+			"removed": "2025",
 			"notes": "",
 			"docs": "https://helpx.adobe.com/coldfusion/cfml-reference/coldfusion-tags/tags-t/cftreeitem.html"
 		},
